@@ -1,2 +1,6 @@
 # Portafolio_UDD
- FullStack UDD portfolio
+ Vitrina donde expongo mis proyectos web
+
+ # # Instalación
+
+ - Clonar repositorio git clone
